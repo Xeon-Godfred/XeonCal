@@ -1,38 +1,44 @@
-# XeonCalc
+# Xeon Calc
 
-## 📌 Overview
-**XeonCalc** is a simple command-line calculator built with Python.  
-This project was created as a learning exercise to practice core programming concepts such as conditional logic, user input handling, and basic arithmetic operations.
-
-Rather than focusing on complexity, XeonCalc emphasizes clarity, correctness, and readable code.
+This is a simple calculator web application built with HTML, CSS, and JavaScript.
 
 ---
 
-## ⚙️ Features
-- Perform addition, subtraction, multiplication, and division
-- Accepts user input from the command line
-- Handles invalid input gracefully
-- Clear and easy-to-follow program flow
+## 🛠️ Skills Demonstrated
+
+- HTML structure  
+- CSS styling basics  
+- JavaScript logic and functions  
+- DOM manipulation  
 
 ---
 
-## 🧠 What I Learned
-Through building this project, I practiced:
-- Writing clean Python functions
-- Using conditional statements effectively
-- Handling user input and basic error cases
-- Structuring a small but complete Python program
+## ⚡ Status
+
+This project is complete and fully functional.
 
 ---
 
-## 🛠️ Technologies Used
-- Python
+## 📁 Features
+
+- Addition, subtraction, multiplication, division  
+- Clear input and output  
+- Simple and responsive design  
 
 ---
 
-## 🚀 Getting Started
-To run this project locally:
+## 🎯 Goals
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Xeon-Godfred/XeonCalc.git
+- Practice JavaScript logic  
+- Improve front-end coding skills  
+- Prepare for more complex projects  
+
+---
+
+## 📬 Contact
+
+- **GitHub:** https://github.com/Xeon-Godfred
+
+  ## ⚡ Status
+
+This project is complete and fully functional.
